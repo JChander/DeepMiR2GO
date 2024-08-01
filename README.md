@@ -29,3 +29,15 @@ Three classic multi-label classification methods: Decision Tree, Random Forest a
 * multiLabel_DT.py
 * multiLabel_RF.py
 * multiLabel_SVC.py
+
+## Citing
+If you find our paper and code useful, please consider citing the [paper](https://www.mdpi.com/1422-0067/20/23/6046):
+```
+@article{DeepMiR2GO,
+  title={DeepMiR2GO: Inferring Functions of Human MicroRNAs Using a Deep Multi-Label Classification Model},
+  author={Jiacheng, Wang and Jingpu, Zhang and Yideng, Cai and Lei, Deng},
+  journal={International Journal of Molecular Sciences},
+  doi = {10.3390/ijms20236046},
+  year={2019},
+}
+```
